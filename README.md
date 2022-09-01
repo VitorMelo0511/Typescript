@@ -1,2 +1,2 @@
 # Typescript
- Estudadno Typescript
+ Estudando Typescript
